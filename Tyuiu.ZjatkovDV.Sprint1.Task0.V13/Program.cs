@@ -4,7 +4,7 @@ Console.Title = "Спринт #1 | Выполнил: Зятьков Д. В. | П
 Console.WriteLine(new string('*', 75));
 Console.WriteLine("* Спринт #1                                                               *");
 Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
-Console.WriteLine("* Задание #1                                                              *");
+Console.WriteLine("* Задание #0                                                              *");
 Console.WriteLine("* Вариант #13                                                             *");
 Console.WriteLine("* Выполнил: Зятьков Дмитрий Владимирович | ПИНб-25-1                      *");
 Console.WriteLine(new string('*', 75));
